@@ -1,5 +1,5 @@
 
-# Web Scraping using APIs
+# Web APIs
 * GET/SUBMIT
 
 ## API Directory on the Web
